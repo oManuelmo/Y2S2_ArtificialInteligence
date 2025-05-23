@@ -1,0 +1,158 @@
+
+==================================================
+Test performed at: 2025-04-06 21:02:55
+--------------------------------------------------
+Seed tested: 2
+--------------------------------------------------
+Has won: True
+Final game_state value: 55400
+Algorithm:           Uniform Cost Search
+Search depth:        2
+Time elapsed:        1124.51 seconds
+Total moves:         237
+Memory used:         606.03 KB
+Peak memory used:    395635.72 KB
+States evaluated:    1565765
+--------------------------------------------------
+Moves per second:    0.211
+States per second:   1392.41
+KB per state:        0.0000006
+==================================================
+
+==================================================
+Test performed at: 2025-04-06 21:39:24
+--------------------------------------------------
+Seed tested: 2
+--------------------------------------------------
+Has won: True
+Final game_state value: 55400
+Algorithm:           Greedy
+Search depth:        3
+Time elapsed:        8.82 seconds
+Total moves:         96
+Memory used:         165.48 KB
+Peak memory used:    174.80 KB
+States evaluated:    1953
+--------------------------------------------------
+Moves per second:    10.89
+States per second:   221.4787934
+KB per state:        0.0847
+==================================================
+
+==================================================
+Test performed at: 2025-04-06 21:42:30
+--------------------------------------------------
+Seed tested: 2
+--------------------------------------------------
+Has won: False
+Final game_state value: -1700
+Algorithm:           DFS
+Search depth:        3
+Time elapsed:        25.68 seconds
+Total moves:         19
+Memory used:         5269.50 KB
+Peak memory used:    5277.56 KB
+States evaluated:    79502
+--------------------------------------------------
+Moves per second:    0.74
+States per second:   3095.9928346
+KB per state:        0.0663
+==================================================
+
+==================================================
+Test performed at: 2025-04-06 21:44:30
+--------------------------------------------------
+Seed tested: 2
+--------------------------------------------------
+Has won: False
+Final game_state value: -1900
+Algorithm:           BFS
+Search depth:        3
+Time elapsed:        1.82 seconds
+Total moves:         36
+Memory used:         73.20 KB
+Peak memory used:    81.69 KB
+States evaluated:    351
+--------------------------------------------------
+Moves per second:    19.75
+States per second:   192.5397696
+KB per state:        0.2085
+==================================================
+
+==================================================
+
+==================================================
+Test performed at: 2025-04-06 22:34:08
+--------------------------------------------------
+Seed tested: 2
+--------------------------------------------------
+Has won: True
+Final game_state value: 55400
+Algorithm:           A*Algorithm
+Search depth:        2
+Time elapsed:        216.46 seconds
+Total moves:         347
+Memory used:         619.87 KB
+Peak memory used:    6984.53 KB
+States evaluated:    115901
+--------------------------------------------------
+Moves per second:    1.60
+States per second:   535.4334710
+KB per state:        0.0053
+==================================================
+
+==================================================
+Test performed at: 2025-04-06 22:39:34
+--------------------------------------------------
+Seed tested: 2
+--------------------------------------------------
+Has won: True
+Final game_state value: 55400
+Algorithm:           Weighted A*
+Search depth:        3
+Time elapsed:        208.12 seconds
+Total moves:         236
+Memory used:         509.20 KB
+Peak memory used:    3114.06 KB
+States evaluated:    115429
+--------------------------------------------------
+Moves per second:    1.13
+States per second:   554.6244733
+KB per state:        0.0044
+==================================================
+
+==================================================
+Test performed at: 2025-04-06 23:55:22
+--------------------------------------------------
+Has won: False
+Final game_state value: 1520
+Algorithm:           Greedy
+Search depth:        2
+Time elapsed:        4.19 seconds
+Total moves:         37
+Memory used:         82.95 KB
+Peak memory used:    92.28 KB
+States evaluated:    1134
+--------------------------------------------------
+Moves per second:    8.84
+States per second:   270.9030100
+KB per state:        0.0731
+==================================================
+
+==================================================
+Test performed at: 2025-04-06 23:55:40
+--------------------------------------------------
+Has won: True
+Final game_state value: 55400
+Algorithm:           Greedy
+Search depth:        3
+Time elapsed:        10.01 seconds
+Total moves:         104
+Memory used:         0.00 KB
+Peak memory used:    0.00 KB
+States evaluated:    7367
+--------------------------------------------------
+Moves per second:    10.39
+States per second:   735.7435334
+KB per state:        0.0000
+==================================================
